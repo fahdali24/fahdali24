@@ -79,6 +79,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top
 
-  ![200w](https://github.com/fahdali24/fahdali24/assets/142120994/da9db63c-3a62-40ad-ac39-1f503f766c22)
 
 
