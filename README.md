@@ -72,7 +72,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yourusername">LinkedIn</a> |
-  <a href="https://twitter.com/yourusername">Twitter</a> |
   <a href="https://github.com/fahdali24">GitHub</a>
 </p>
 
